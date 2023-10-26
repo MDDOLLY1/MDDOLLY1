@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning and building projects 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on web development 
-- 📫 How to reach me 08068272029
+- 📫 How to reach me 08068272019
 
 <!---
 MDDOLLY1/MDDOLLY1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
